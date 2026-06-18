@@ -1,0 +1,52 @@
+# Python
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+
+.venv/
+venv/
+env/
+
+# VS Code
+
+.vscode/
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Model Files (optional)
+
+*.pt
+*.pth
+
+# Dataset Files
+
+data/raw/
+data/selected/
+data/train/
+data/val/
+data/test/
+
+# Large Archives
+
+*.zip
+*.rar
+*.7z
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# Streamlit Cache
+
+.streamlit/cache/
+
+# Logs
+
+*.log
